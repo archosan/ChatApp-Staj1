@@ -1,6 +1,6 @@
 # ChatApp-Staj1
 
-## Beykent Üniversitesi Staj 1 Proje
+## Beykent Üniversitesi Yazılım Mühendisliği Staj 1 Proje
 
 ![2021-06-28 10_16_33-](https://user-images.githubusercontent.com/61122443/138058432-f257a460-f972-45a3-84e4-521b334f2eec.jpg)
 ---
